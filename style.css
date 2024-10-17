@@ -1,0 +1,36 @@
+#imran{
+    border: 3px  solid;
+    background-color: skyblue;
+    border-radius: 20px;
+    margin-right: 1600px;
+    padding-left: 25px;
+}
+
+#frist{
+  border: 2px solid blue;
+  
+  padding-left: 15px;
+}
+  #second{
+    border: 2px solid green;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-top: 20px ;
+    padding-left:20px;
+  }
+
+  #third{ border: 2px solid;
+    background-color: rgb(255, 251, 0);
+    border-radius: 20px 0px;
+    margin-top: 20px;
+    padding-left: 20px; }
+
+     #fourth{ border: 3px solid;
+        
+        border-radius: 0px 25px 0px 25px;
+       background-color:rgba(0, 255, 255, 0.644);
+        margin: 30px 50px 10px 50px;
+        color:rgba(115, 196, 34, 0.795);
+        padding: 30px 20px 30px 20px;
+        box-shadow: 20px 20px;
+     }
